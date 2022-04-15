@@ -136,7 +136,6 @@ SHRP_OTG := /usb_otg
 SHRP_FLASH := 1
 SHRP_REC := /dev/block/platform/13500000.dwmmc0/by-name/recovery
 SHRP_AB := false
-SHRP_LITE := true
 SHRP_REC_TYPE := SAR
 SHRP_DEVICE_TYPE := A_Only
 SHRP_ALT_REBOOT := true
